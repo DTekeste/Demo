@@ -1,2 +1,2 @@
 # Demo
-This is a demo repo
+I enjoy JavaScript because it utilizes both Functional programming and OOP
